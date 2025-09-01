@@ -1,1 +1,0 @@
-# NSMM-config-properties
